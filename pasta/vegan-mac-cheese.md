@@ -1,7 +1,7 @@
 # Vegan Macaroni and Cheese
 
-This recipe originally came from Seven Secrets. I've modified it slightly to
-due to it slightly upsetting my stomach.
+This recipe originally came from Seven Secrets by Neva and Jim Brackett. I've 
+modified it slightly due to it slightly upsetting my stomach.
 
 ## Ingredients
 
