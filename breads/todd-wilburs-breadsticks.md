@@ -6,12 +6,12 @@ This recipe was featured here: http://abcnews.go.com/GMA/recipe/olive-garden-bre
 
 ### Breadsticks
 
-2 Tablespoons        : Granulated Sugar
-3/4 Teaspoon         : Active Dry Yeast
-1 Cup + 1 Tablespoon : Warm (105 - 115 degrees F) Water
-3 Cups (16 Ounces)   : Bread Flour
-1 1/2 Teaspoons      : Salt
-1/4 Cup (1/2 stick)  : (softened) Butter
+	2 Tablespoons        : Granulated Sugar
+	3/4 Teaspoon         : Active Dry Yeast
+	1 Cup + 1 Tablespoon : Warm (105 - 115 degrees F) Water
+	3 Cups (16 Ounces)   : Bread Flour
+	1 1/2 Teaspoons      : Salt
+	1/4 Cup (1/2 stick)  : (softened) Butter
 
 ### Spread
 

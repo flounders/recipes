@@ -7,15 +7,15 @@ modified it slightly due to it slightly upsetting my stomach.
 
 ### Sauce
 
-1/4 Cup       : Raw Cashew Pieces
-1/4 Cup       : Nutritional Yeast
-1/4 Cup       : Cornstarch
-1/4 Cup       : Pimentos
-1 Can         : Coconut Milk
-2 Tablespoons : Lemon Juice
-2 Teaspoons   : Salt
-1 Teaspoon    : Onion Powder
-1 1/4 Cup     : Water
+	1/4 Cup       : Raw Cashew Pieces
+	1/4 Cup       : Nutritional Yeast
+	1/4 Cup       : Cornstarch
+	1/4 Cup       : Pimentos
+	1 Can         : Coconut Milk
+	2 Tablespoons : Lemon Juice
+	2 Teaspoons   : Salt
+	1 Teaspoon    : Onion Powder
+	1 1/4 Cup     : Water
 
 ### Pasta
 

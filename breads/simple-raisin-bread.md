@@ -7,12 +7,12 @@ don't know where the recipe came from.
 
 ## Ingredients
 
-18 Cups (5 lbs)       : Whole Wheat Flour
-1 Tablespoon          : Yeast
-5 1/4 - 5 1/2 Cups    : Hot Water
-1 Tablespoon          : Salt
-1 Can                 : Grape Juice Concentrate
-3 Cups (or to liking) : Raisins
+	18 Cups (5 lbs)       : Whole Wheat Flour
+	1 Tablespoon          : Yeast
+	5 1/4 - 5 1/2 Cups    : Hot Water
+	1 Tablespoon          : Salt
+	1 Can                 : Grape Juice Concentrate
+	3 Cups (or to liking) : Raisins
 
 ## Directions
 

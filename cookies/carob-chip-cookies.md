@@ -7,14 +7,14 @@ the recipe doesn't have proper pH balance yet.
 
 ## Ingredients
 
-1  stick       : unsalted butter
-1/2 cup        : granulated sugar
-1/4 cup        : brown sugar
-1              : egg (may replace with Ener-G Egg Replacer or other egg substitute)
-2 teaspoon     : pure vanilla extract
-1/2  teaspoon  : salt
-1 1/4 cup      : all-purpose flour
-1 cup          : carob chips
+	1  stick       : unsalted butter
+	1/2 cup        : granulated sugar
+	1/4 cup        : brown sugar
+	1              : egg (may replace with Ener-G Egg Replacer or other egg substitute)
+	2 teaspoon     : pure vanilla extract
+	1/2  teaspoon  : salt
+	1 1/4 cup      : all-purpose flour
+	1 cup          : carob chips
 
 ## Directions
 
