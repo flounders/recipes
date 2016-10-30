@@ -4,12 +4,12 @@ Recipe found originally on Yumly.
 
 ## Ingredients
 
-	1 1/4 Cup	: Cooked Brown Basmati Rice
-	1 16 oz.	: Extra Firm Tofu
-	1 1/4 Cup	: Frozen Peas
-	1 1/4 Cup	: Carots (preferably less than 1 cubic centimeter in size)
-	3/4 Teaspoon	: Tumeric
-	5 Tablespoons	: Bragg's Liquid Aminos or preferred soy sauce.
+	1 1/4 Cup       : Cooked Brown Basmati Rice
+	1 16 oz.        : Extra Firm Tofu
+	1 1/4 Cup       : Frozen Peas
+	1 1/4 Cup       : Carots (preferably less than 1 cubic centimeter in size)
+	3/4 Teaspoon    : Tumeric
+	5 Tablespoons   : Bragg's Liquid Aminos or preferred soy sauce.
 
 ## Directions
 

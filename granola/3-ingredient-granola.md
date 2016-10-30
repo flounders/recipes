@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-	6 Cups	: Oats
-	1/4 Cup	: Coconut Oil
-	1/3 Cup	: Honey
+	6 Cups  : Oats
+	1/4 Cup : Coconut Oil
+	1/3 Cup : Honey
 
 ## Directions
 
